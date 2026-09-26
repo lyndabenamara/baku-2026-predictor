@@ -1,0 +1,23 @@
+P,driver,status,time_s,speed_trap
+1,RUS,reached Q3,102.526,328.0
+2,LEC,reached Q3,103.363,327.0
+3,PIA,reached Q3,103.364,320.0
+4,HAD,reached Q3,103.5,323.0
+5,NOR,reached Q3,103.672,317.0
+6,HAM,reached Q3,103.858,328.0
+7,GAS,reached Q3,104.047,318.0
+8,VER,reached Q3,104.081,321.0
+9,SAI,reached Q3,104.566,324.0
+10,COL,reached Q3,104.963,327.0
+11,BEA,out in Q2,104.775,322.0
+12,LAW,out in Q2,104.86,326.0
+13,ALB,out in Q2,105.001,325.0
+14,OCO,out in Q2,105.016,330.0
+15,LIN,out in Q2,105.106,324.0
+16,ANT,out in Q1,105.504,322.0
+17,BOR,out in Q1,105.799,317.0
+18,HUL,out in Q1,105.92,315.0
+19,ALO,out in Q1,106.593,316.0
+20,PER,out in Q1,106.658,324.0
+21,BOT,out in Q1,107.147,328.0
+22,STR,out in Q1,107.337,301.0

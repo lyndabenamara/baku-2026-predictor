@@ -1,0 +1,17 @@
+year,driver,team,laps_completed,reason,category,corner,source_notes
+2021,RUS,Williams,48,Gearbox,mechanical,,FastF1+Wikipedia; not in Lynda's list
+2021,VER,Red Bull Racing,45,"Left-rear tyre failure, main straight",tyre_failure,Main straight,Lynda listed as PU/mechanical; FastF1 status 'Accident'; Wikipedia: tyre failure
+2021,STR,Aston Martin,29,"Left-rear tyre failure, main straight",tyre_failure,Main straight,Lynda listed as PU/mechanical; FastF1 status 'Accident'
+2021,OCO,Alpine,3,Turbocharger,power_unit,Sector 1,Lynda + FastF1 agree
+2022,STR,Aston Martin,46,Vibration,mechanical,,FastF1+Wikipedia; not in Lynda's list; ambiguous cause
+2022,MAG,Haas F1 Team,31,Power unit,power_unit,Main straight,Lynda + FastF1 agree
+2022,ZHO,Alfa Romeo,23,Hydraulics,mechanical,Sector 2,CONFLICT: Lynda said PU cooling issue; FastF1 and Wikipedia say hydraulics
+2022,LEC,Ferrari,21,Power unit (engine),power_unit,,Lynda + FastF1 agree
+2022,SAI,Ferrari,8,Hydraulics,mechanical,Turn 4,Lynda + FastF1 agree
+2023,ZHO,Alfa Romeo,36,Overheating,mechanical,,Wikipedia; not in Lynda's list
+2023,DEV,AlphaTauri,9,"Accident, front-left clipped wall",crash,Turn 5,Lynda + FastF1 agree
+2024,PER,Red Bull Racing,49,Collision with Sainz,contact,Straight T2-T3,Lynda + FastF1 agree
+2024,SAI,Ferrari,49,Collision with Perez,contact,Straight T2-T3,Lynda + FastF1 agree
+2024,STR,Aston Martin,45,Brakes,mechanical,,Wikipedia; not in Lynda's list
+2024,TSU,RB,14,Collision damage,contact,,Wikipedia; not in Lynda's list
+2025,PIA,McLaren,0,"Lap-1 contact with Ocon, wall",contact,Turn 5/6 (sources differ),Lynda + FastF1 agree

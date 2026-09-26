@@ -1,0 +1,6 @@
+fastf1==3.8.3
+xgboost
+scikit-learn
+pandas
+numpy
+matplotlib

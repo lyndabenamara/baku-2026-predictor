@@ -1,0 +1,21 @@
+year,session,driver,corner,category,source
+2021,FP3,VER,T15,crash,Lynda (user-provided); FastF1 race-control logs confirm red flags but do not name drivers or corners
+2021,Q1,STR,T15,crash,Lynda (user-provided); FastF1 race-control logs confirm red flags but do not name drivers or corners
+2021,Q1,GIO,T15,crash,Lynda (user-provided); FastF1 race-control logs confirm red flags but do not name drivers or corners
+2021,Q2,RIC,T3,crash,Lynda (user-provided); FastF1 race-control logs confirm red flags but do not name drivers or corners
+2021,Q3,TSU,T3,crash,Lynda (user-provided); FastF1 race-control logs confirm red flags but do not name drivers or corners
+2021,Q3,SAI,T3,crash,Lynda (user-provided); FastF1 race-control logs confirm red flags but do not name drivers or corners
+2022,Q1,STR,T7,crash,Lynda (user-provided); FastF1 race-control logs confirm red flags but do not name drivers or corners
+2022,Q1,STR,T2,crash,Lynda (user-provided); FastF1 race-control logs confirm red flags but do not name drivers or corners
+2022,Q2,VET,T15,crash,Lynda (user-provided); FastF1 race-control logs confirm red flags but do not name drivers or corners
+2023,FP1,GAS,T3,mechanical,Lynda (user-provided); FastF1 race-control logs confirm red flags but do not name drivers or corners
+2023,Q1,DEV,T3,crash,Lynda (user-provided); FastF1 race-control logs confirm red flags but do not name drivers or corners
+2023,Q1,GAS,T3,crash,Lynda (user-provided); FastF1 race-control logs confirm red flags but do not name drivers or corners
+2024,FP1,LEC,T15,crash,Lynda (user-provided); FastF1 race-control logs confirm red flags but do not name drivers or corners
+2024,FP1,COL,T4,crash,Lynda (user-provided); FastF1 race-control logs confirm red flags but do not name drivers or corners
+2025,Q1,ALB,T1,crash,Lynda (user-provided); FastF1 race-control logs confirm red flags but do not name drivers or corners
+2025,Q1,HUL,T4,crash,Lynda (user-provided); FastF1 race-control logs confirm red flags but do not name drivers or corners
+2025,Q1,COL,T4,crash,Lynda (user-provided); FastF1 race-control logs confirm red flags but do not name drivers or corners
+2025,Q2,BEA,T15,crash,Lynda (user-provided); FastF1 race-control logs confirm red flags but do not name drivers or corners
+2025,Q3,LEC,T15,crash,Lynda (user-provided); FastF1 race-control logs confirm red flags but do not name drivers or corners
+2025,Q3,PIA,T3,crash,Lynda (user-provided); FastF1 race-control logs confirm red flags but do not name drivers or corners

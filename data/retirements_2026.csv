@@ -1,0 +1,65 @@
+round,driver,raw_reason,category,team,laps_fastf1,grid,fastf1_status,pu_supplier,source
+1,HUL,Hydraulics (DNS),dns,Audi,0.0,11.0,Did not start,Audi,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+1,PIA,Accident on recon lap / power surge (DNS),dns,McLaren,0.0,5.0,Did not start,Mercedes,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+1,HAD,Engine,power_unit,Red Bull Racing,10.0,3.0,Retired,Red Bull-Ford,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+1,BOT,Fuel system,mechanical,Cadillac,15.0,19.0,Retired,Ferrari,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+1,ALO,Vibrations,power_unit,Aston Martin,21.0,17.0,Retired,Honda,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+2,ALB,Hydraulics (DNS),dns,Williams,0.0,22.0,Did not start,Mercedes,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+2,BOR,Hydraulics (DNS),dns,Audi,0.0,16.0,Did not start,Audi,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+2,NOR,Electrical/PU (DNS),dns,McLaren,0.0,6.0,Did not start,Mercedes,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+2,PIA,Electrical/PU (DNS),dns,McLaren,0.0,5.0,Did not start,Mercedes,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+2,STR,Battery,power_unit,Aston Martin,9.0,20.0,Retired,Honda,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+2,ALO,Vibrations,power_unit,Aston Martin,32.0,18.0,Retired,Honda,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+2,VER,Coolant leak,mechanical,Red Bull Racing,45.0,8.0,Retired,Red Bull-Ford,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+3,BEA,"Accident, Spoon (energy-deployment speed differential)",crash,Haas F1 Team,20.0,18.0,Retired,Ferrari,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+3,STR,Water pressure,mechanical,Aston Martin,30.0,22.0,Retired,Honda,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+4,GAS,Contact with Lawson into barriers,contact,Alpine,4.0,9.0,Retired,Mercedes,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+4,HAD,Hit wall T14,crash,Red Bull Racing,4.0,22.0,Retired,Red Bull-Ford,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+4,LAW,"Contact with Gasly, retired under SC",contact,Racing Bulls,6.0,11.0,Retired,Red Bull-Ford,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+4,HUL,"Smoke/flames from rear en route to grid; FastF1 shows 7 laps, so not a true DNS",unknown,Audi,7.0,10.0,Retired,Audi,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+5,LIN,Gearbox/clutch (DNS),dns,Racing Bulls,0.0,9.0,Did not start,Red Bull-Ford,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+5,ALB,Collision with Piastri,contact,Williams,11.0,18.0,Retired,Mercedes,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+5,ALO,Broken seat,mechanical,Aston Martin,23.0,19.0,Retired,Honda,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+5,RUS,Engine/battery,power_unit,Mercedes,29.0,1.0,Retired,Mercedes,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+5,NOR,Gearbox,mechanical,McLaren,38.0,3.0,Retired,Mercedes,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+5,PER,Suspension,mechanical,Cadillac,39.0,20.0,Retired,Ferrari,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+6,VER,"Engine, lap 1",power_unit,Red Bull Racing,0.0,2.0,Retired,Red Bull-Ford,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+6,BOT,Brakes,mechanical,Cadillac,15.0,20.0,Retired,Ferrari,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+6,BEA,Brakes,mechanical,Haas F1 Team,27.0,19.0,Retired,Ferrari,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+6,NOR,Battery,power_unit,McLaren,43.0,8.0,Retired,Mercedes,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+6,STR,Accident T14,crash,Aston Martin,56.0,22.0,Retired,Honda,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+6,LEC,Accident T14 after SC restart,crash,Ferrari,64.0,4.0,Retired,Ferrari,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+6,SAI,"Collision damage (Hulkenberg, Colapinto)",contact,Williams,70.0,12.0,Retired,Mercedes,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+7,STR,Gearbox,mechanical,Aston Martin,5.0,21.0,Retired,Honda,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+7,BOT,Overheating,mechanical,Cadillac,15.0,20.0,Retired,Ferrari,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+7,HUL,Safety switch (rock strike),mechanical,Audi,29.0,9.0,Retired,Audi,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+7,ALO,Battery,power_unit,Aston Martin,37.0,22.0,Retired,Honda,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+7,BEA,Electrical,power_unit,Haas F1 Team,60.0,15.0,Retired,Ferrari,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+7,ANT,Engine/mechanical after front wing damage,power_unit,Mercedes,61.0,3.0,Retired,Mercedes,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+7,LEC,Hydraulics (power steering),mechanical,Ferrari,62.0,10.0,Retired,Ferrari,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+8,BOT,Brakes (fire),mechanical,Cadillac,2.0,20.0,Retired,Ferrari,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+8,PER,Brakes (overheating),mechanical,Cadillac,4.0,19.0,Retired,Ferrari,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+8,SAI,Electrical,power_unit,Williams,23.0,17.0,Retired,Mercedes,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+8,STR,ERS,power_unit,Aston Martin,45.0,22.0,Retired,Honda,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+9,HUL,Hydraulics (stopped lap 39 per web; FastF1 shows 36 laps),mechanical,Audi,36.0,12.0,Retired,Audi,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+9,ALB,Collision damage (Bearman lap 1),contact,Williams,43.0,16.0,Retired,Mercedes,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+9,VER,"Accident, Stowe",crash,Red Bull Racing,46.0,7.0,Retired,Red Bull-Ford,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+10,RUS,"Collision with Hamilton, lap 1",contact,Mercedes,0.0,3.0,Retired,Mercedes,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+10,PER,Suspension,mechanical,Cadillac,13.0,18.0,Retired,Ferrari,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+10,STR,Gearbox,mechanical,Aston Martin,25.0,20.0,Retired,Honda,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+11,BOT,Brakes (overheating/fire),mechanical,Cadillac,13.0,21.0,Retired,Ferrari,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+11,PER,Suspension,mechanical,Cadillac,48.0,22.0,Retired,Ferrari,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+11,PIA,Gearbox,mechanical,McLaren,55.0,3.0,Retired,Mercedes,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+12,VER,"Accident, final corner lap 1 (damp)",crash,Red Bull Racing,0.0,7.0,Retired,Red Bull-Ford,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+12,BEA,"Power unit problem en route to grid; FastF1 shows 2 laps, so not a true DNS",power_unit,Haas F1 Team,2.0,20.0,Retired,Ferrari,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+12,STR,Unknown (web summary vague),unknown,Aston Martin,45.0,19.0,Retired,Honda,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+12,OCO,Stopped on track (cause unknown),unknown,Haas F1 Team,52.0,15.0,Retired,Ferrari,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+12,BOT,Unknown (web summary vague),unknown,Cadillac,61.0,21.0,Retired,Ferrari,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+12,ALB,"Collision with teammate Sainz, lap 70",contact,Williams,66.0,16.0,Retired,Mercedes,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+13,LEC,"Accident, Parabolica (drainage grill)",crash,Ferrari,1.0,3.0,Retired,Ferrari,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+13,ALO,Mechanical (unspecified),mechanical,Aston Martin,23.0,21.0,Retired,Honda,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+13,STR,Hydraulics,mechanical,Aston Martin,26.0,18.0,Retired,Honda,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+14,HAM,Brakes,mechanical,Ferrari,6.0,4.0,Retired,Ferrari,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+14,STR,Brakes,mechanical,Aston Martin,12.0,21.0,Retired,Honda,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+14,PER,Water pressure,mechanical,Cadillac,31.0,18.0,Retired,Ferrari,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
+14,SAI,Collision damage,contact,Williams,43.0,20.0,Retired,Mercedes,Wikipedia race page (AI-summarised); count cross-checked vs FastF1
